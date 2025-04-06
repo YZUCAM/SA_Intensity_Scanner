@@ -25,3 +25,6 @@ The program is used to synchronize the rotation stage and data acquisition. Ther
 conda install conda-forge::thorlabs-apt-protocol<br>
 conda install anaconda::pywin32
 
+## How to use
+The main program is I_Scan_v2.py.<br><br> Directly run it will give you command line prompt. If hardware connections are correct, the prompt will show the connected device series number. Then follow the instruction to choose the measurement you want.
+
